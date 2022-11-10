@@ -8,6 +8,9 @@
 ### Summary
 The goal of this project is to implement a dynamic and insightful reporting and monitoring system for the Connected Office application. It utilizes Microsoft Power BI to extract live data, filter the data and display it in a simple, user-friendly interface.
 
+### Data
+The data used in the report is extracted from the provided [Excel file](https://nwucloud.sharepoint.com/:x:/s/CMPG323/EY0IBJY_mDxIlRBRTj-fiJkBJT4Cgd2qOHHzzyYECfhEnA?e=0a5VY8). It utilizes a live connection to the file, allowing dynamic updates to the data displayed within the report. Access to the file is controlled via NWU Microsoft account credentials.
+
 ### Report Pages
 The Power BI report is comprised of the following pages:
 
